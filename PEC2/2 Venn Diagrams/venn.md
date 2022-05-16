@@ -2,7 +2,7 @@
 
 ![Alt text](./venn.svg)
 
-\*Figura creada usando matplotlib-venn
+*Figura creada usando matplotlib-venn*
 
 ## Descripcion
 
