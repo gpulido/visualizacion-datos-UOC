@@ -19,7 +19,7 @@ Java;Backend
 JavaScript;Frontend
 Julia;Backend
 Lua;Backend
-Matlab;Backend
+Matlab;Tooling
 Objective-C;Mobile
 PHP;Frontend
 Perl;Backend
@@ -27,7 +27,7 @@ Python;Backend
 R;Backend
 Ruby;FullStack
 Rust;Backend
-SQL;Tooling
+SQL;DB
 Scala;Backend
 Smalltalk;Backend
 Swift;Mobile
@@ -42,12 +42,10 @@ Delphi/Object Pascal;Backend
 HTML;Frontend
 Kotlin;FullStack
 Ocaml;Backend
-Visual Basic 6;Backend
 Bash/Shell/PowerShell;Tooling
 HTML/CSS;Frontend
 Other(s):;Tooling
 WebAssembly;Frontend
-Haskell;Backend
 APL;Backend
 COBOL;Backend
 Crystal;Backend
@@ -55,3 +53,25 @@ Delphi;Backend
 LISP;Backend
 Node.js;FullStack
 PowerShell;Tooling
+Redis;DB
+iOS;Mobile
+Hadoop;DB
+LAMP;FullStack
+Spark;Tooling
+VisualBasic;FullStack
+Windows Phone;Mobile
+Wordpress;Frontend
+Write-In;FullStack
+Android;Mobile
+AngularJS;Frontend
+Arduino/RaspberryPi;Tooling
+Cordova;Mobile
+MongoDB;DB
+ReactJS;Frontend
+SQLServer;DB
+Salesforce;FullStack
+SharePoint;FullStack
+MATLAB;Tooling
+Arduino;Tooling
+Cassandra;DB
+Cloud;Tooling
