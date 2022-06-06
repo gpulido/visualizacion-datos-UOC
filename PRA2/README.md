@@ -1,8 +1,12 @@
 # PRACTICA FINAL
 
 [![Foo](./Tecnologias.png)](https://public.flourish.studio/visualisation/10231451/)
+
 *Visualización creada usando https://flourish.studio/ haz click en la imagen para acceder*
 
+Link directo:
+
+https://public.flourish.studio/visualisation/10231451/
 
 ## Descripcion
 
