@@ -1,3 +1,4 @@
 data/in
 .history/
 surveys*
+*.cfg
